@@ -71,6 +71,7 @@ npx skills add https://github.com/gmh5225/awesome-ai-security --skill ai-powered
   - https://mlsecops.com/podcast [MLSecOps Podcast]
   - https://podcasts.apple.com/ph/podcast/the-genai-security-podcast/id1782916580 [GenAI Security Podcast]
   - https://avidml.org/ [AI Vulnerability Database (AVID)]
+  - https://calder-brief.pages.dev/ai-hub.html [Calder Brief AI news hub — daily-updated AI news, including AI security/safety coverage]
 
 - **Certifications / Courses**
   - https://cs229.stanford.edu/ [Stanford CS229: Machine Learning]
